@@ -1,0 +1,12 @@
+# 비밀·개인 자료는 이 저장소에 두지 않는다. 혹시 들어와도 올라가지 않게.
+.env
+*.env
+*secret*
+*token*
+*credential*
+*.key
+*.pem
+__pycache__/
+*.pyc
+.venv/
+*.log

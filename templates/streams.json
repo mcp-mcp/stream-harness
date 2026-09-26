@@ -1,0 +1,28 @@
+{
+  "extensions": [".py"],
+  "exclude": ["_archive/", ".venv/"],
+  "streams": {
+    "platform": {
+      "label": "Shared modules",
+      "map": "docs/streams/stream_platform.md",
+      "roots": ["_shared/"]
+    },
+    "research": {
+      "label": "Work research",
+      "map": "docs/streams/stream_research.md",
+      "roots": ["research/"],
+      "globs": ["manual/report_*"]
+    },
+    "publish": {
+      "label": "Publishing",
+      "map": "docs/streams/stream_publish.md",
+      "roots": ["publish/"],
+      "globs": ["manual/post_*"]
+    },
+    "audit": {
+      "label": "Audit and auto-repair",
+      "map": "docs/streams/stream_audit.md",
+      "roots": ["audit/"]
+    }
+  }
+}
