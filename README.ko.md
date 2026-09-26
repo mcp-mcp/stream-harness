@@ -102,7 +102,7 @@ python tools/leak_check.py --staged --deny <저장소 밖 금지어.json> --vaul
 
 ## 만든 사람
 
-MCP MCP. 에너지 회사에서 해외 발전 사업을 검토하고 있습니다. 그 전에는 해양플랜트 계약 관리와 해외 영업, 합작사 협상을 했습니다. 사람과 계약서를 상대하던 방식 그대로 AI에게 일을 맡기고 있습니다.
+mcpmcp. 에너지 회사에서 해외 발전 사업을 검토하고 있습니다. 그 전에는 해양플랜트 계약 관리와 해외 영업, 합작사 협상을 했습니다. 사람과 계약서를 상대하던 방식 그대로 AI에게 일을 맡기고 있습니다.
 
 LinkedIn: https://www.linkedin.com/in/mcjeffpark
 

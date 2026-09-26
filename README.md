@@ -102,7 +102,7 @@ Korean versions of the templates are in `templates/ko/`.
 
 ## About me
 
-MCP MCP. I review overseas power generation projects at an energy company. Before that I worked on offshore plant contracts, international sales and joint-venture negotiations. I hand work to AI the way I used to deal with people and contracts.
+mcpmcp. I review overseas power generation projects at an energy company. Before that I worked on offshore plant contracts, international sales and joint-venture negotiations. I hand work to AI the way I used to deal with people and contracts.
 
 LinkedIn: https://www.linkedin.com/in/mcjeffpark
 
