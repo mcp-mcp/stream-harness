@@ -36,7 +36,7 @@ A stream is one area of work. Each has a single map document: what exists, where
 
 ## Read it like a contract
 
-I spent years at a shipyard in offshore plant contract management and international sales. Map this setup onto a contract and you get:
+I spent years at a shipyard in offshore plant contract management. Map this setup onto a contract and you get:
 
 | Contract | Here |
 |---|---|
